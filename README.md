@@ -4,8 +4,12 @@ With this integration you can experience the far superior intelligence and perfo
 
 ## Benefits
 
-- No hallucina
-
+- Never hallucinates or lies
+- Blazing fast answers within seconds
+- Minimal water and power consumption 🌱
+- Answers are always 100% on point and exactly what you need to hear
+- Safe to use, absolutely no risk of Chatbot psychosis
+- 100% safe for work
 
 ## 📦 Installation
 
