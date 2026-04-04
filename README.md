@@ -9,7 +9,13 @@ With this integration you can experience the far superior intelligence and perfo
 - Minimal water and power consumption 🌱
 - Answers are always 100% on point and exactly what you need to hear
 - Safe to use, absolutely no risk of Chatbot psychosis
-- 100% safe for work
+- 100% safe for work, never gives explicit answers or generates sexual imagery
+- Supports rubber duck debugging in any programming language
+
+## Features
+
+- Conversation agent
+- Text to Quack engine
 
 ## 📦 Installation
 
@@ -19,7 +25,7 @@ With this integration you can experience the far superior intelligence and perfo
 
 ### Manual Installation
 
-1. Copy `custom_components/openplantbook/` to your `<config>/custom_components/` directory
+1. Copy `custom_components/rubber_duck/` to your `<config>/custom_components/` directory
 2. Restart Home Assistant
 
 ---
