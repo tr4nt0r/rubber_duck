@@ -6,5 +6,6 @@
   "documentation": "https://www.home-assistant.io/integrations/rubber_duck",
   "integration_type": "service",
   "iot_class": "calculated",
-  "single_config_entry": true
+  "single_config_entry": true,
+  "version": "0.1.0"
 }
