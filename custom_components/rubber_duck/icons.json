@@ -1,0 +1,14 @@
+{
+    "entity": {
+        "conversation": {
+            "rubber_duck": {
+                "default": "mdi:duck"
+            }
+        },
+        "tts": {
+            "rubber_duck": {
+                "default": "mdi:duck"
+            }
+        }
+    }
+}

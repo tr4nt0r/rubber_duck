@@ -1,0 +1,10 @@
+{
+  "domain": "rubber_duck",
+  "name": "Rubber Duck AI",
+  "codeowners": ["@tr4nt0r"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/rubber_duck",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "single_config_entry": true
+}

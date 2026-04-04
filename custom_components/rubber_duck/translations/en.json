@@ -1,0 +1,14 @@
+{
+    "entity": {
+        "conversation": {
+            "rubber_duck": {
+                "name": "Conversation"
+            }
+        },
+        "tts": {
+            "rubber_duck": {
+                "name": "Text to Quack"
+            }
+        }
+    }
+}
