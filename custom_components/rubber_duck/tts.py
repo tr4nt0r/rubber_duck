@@ -14,7 +14,7 @@ from homeassistant.core import HomeAssistant, callback
 from homeassistant.helpers.device_registry import DeviceEntryType, DeviceInfo
 from homeassistant.helpers.entity_platform import AddConfigEntryEntitiesCallback
 
-from .const import DOMAIN
+from .const import DOMAIN, TTS_SUPPORTED_LANGUAGES
 
 
 async def async_setup_entry(
@@ -32,7 +32,7 @@ class RubberDuckTTSEntity(TextToSpeechEntity):
 
     _attr_translation_key = "rubber_duck"
     _attr_default_language = "en"
-    _attr_supported_languages = [_attr_default_language]
+    _attr_supported_languages = TTS_SUPPORTED_LANGUAGES
     _attr_supported_options = [ATTR_VOICE]
     _attr_has_entity_name = True
 
