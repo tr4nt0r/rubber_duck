@@ -1,11 +1,12 @@
 {
-  "domain": "rubber_duck",
-  "name": "Rubber Duck AI",
   "codeowners": ["@tr4nt0r"],
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/rubber_duck",
+  "documentation": "https://github.com/tr4nt0r/rubber_duck/blob/main/README.md",
+  "domain": "rubber_duck",
   "integration_type": "service",
   "iot_class": "calculated",
+  "issue_tracker": "https://github.com/tr4nt0r/rubber_duck/issues",
+  "name": "Rubber Duck AI",
   "single_config_entry": true,
   "version": "0.1.0"
 }
