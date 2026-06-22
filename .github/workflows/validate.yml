@@ -17,6 +17,6 @@ jobs:
         uses: "hacs/action@1ebf01c408f29afcb6406bd431bc98fd8cbb15aa" # main
         with:
           category: "integration"
-      - uses: "actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd" # v6
+      - uses: "actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0" # v7
       - name: Hassfest validation
         uses: "home-assistant/actions/hassfest@e91ad1948e57189485b9c1ad608af0c303946f89" # master
